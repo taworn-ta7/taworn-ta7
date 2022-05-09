@@ -1,6 +1,6 @@
 * 👋 Hi, I’m @taworn-ta7
-* 👀 I’m interested in Flutter, React, Node
-* 🌱 I’m currently learning TypeScript, NestJS and Vue
+* 👀 I’m interested in Flutter, Vue, Node, Nest and TypeScript
+* 🌱 I’m currently learning Vue, Nest and TypeScript
 * 💞️ I’m looking to collaborate on ...
 * 📫 Reach me in taworn.ta7@gmail.com
 
@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 * https://github.com/taworn-ta7/games.tictactoe
 
-	Game Tic-Tac-Toe, written by Flutter, React and Go.
+	Game Tic-Tac-Toe, multi-versions, written by Flutter, React and Go.
 
 * https://gitlab.com/taworn.ta7
 
