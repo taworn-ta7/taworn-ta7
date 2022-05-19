@@ -13,11 +13,11 @@ You can click the Preview link to take a look at your changes.
 
 * https://gitlab.com/taworn.ta7/samples.coldfire
 
-	Sample Client/Server, written by Flutter, Vue, Nest and TypeScript, database use MongoDB.
+	Full-stack Sample Client/Server, written by Flutter, Vue, Nest and TypeScript, database use MySQL, SQLite or MongoDB.
 
 * https://github.com/taworn-ta7/examples.moonville
 
-	Example Client/Server, written by Flutter, React and Node, database use MySQL or SQLite.
+	Full-stack Example Client/Server, written by Flutter, React and Node, database use MySQL or SQLite.
 
 * https://github.com/taworn-ta7/games.tictactoe
 
