@@ -1,7 +1,9 @@
-* 👋 Hi, I’m @taworn-ta7
+* 👋 Hi, I’m Taworn Ta.
 * 👀 I’m interested in Flutter, Vue, Node, Nest and TypeScript
 * 🌱 I’m currently learning Vue, Nest and TypeScript
+<!--
 * 💞️ I’m looking to collaborate on ...
+-->
 * 📫 Reach me in taworn.ta7@gmail.com
 
 <!---
@@ -13,11 +15,11 @@ You can click the Preview link to take a look at your changes.
 
 * https://gitlab.com/taworn.ta7/samples.coldfire
 
-	Full-stack Sample Client/Server, written by Flutter, Vue, Nest and TypeScript, database use MySQL, SQLite or MongoDB.
+	Full-stack sample client/server.  Database use MySQL, SQLite or MongoDB.  Written by Flutter, Vue, Nest and TypeScript.  Use TypeORM or Mongoose to connect database.
 
 * https://github.com/taworn-ta7/examples.moonville
 
-	Full-stack Example Client/Server, written by Flutter, React and Node, database use MySQL or SQLite.
+	Full-stack sample client/server.  Database use MySQL or SQLite.  Written by Flutter, React and Node.  Use Sequelize to connect database.
 
 * https://github.com/taworn-ta7/games.tictactoe
 
